@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging E:\medium\threading-scala\target\scala-2.13\hello-world_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\medium\threading-scala\target\scala-2.13\classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\medium\threading-scala\target\scala-2.13\classes\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\medium\threading-scala\target\scala-2.13\classes\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\medium\threading-scala\target\scala-2.13\classes\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaRunnableThreadExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\medium\threading-scala\target\scala-2.13\classes\ScalaRunnableThreadExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ScalaThreadExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\medium\threading-scala\target\scala-2.13\classes\ScalaThreadExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ThreadSetNameExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\medium\threading-scala\target\scala-2.13\classes\ThreadSetNameExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ThreadSleepExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\medium\threading-scala\target\scala-2.13\classes\ThreadSleepExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
